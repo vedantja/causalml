@@ -73,6 +73,8 @@ $ conda activate causalml-tf-py38
 
 ## Install using `pip`:
 
+NOTE: Use '--no-cache-dir' option when installing using PIP
+
 ```
 $ git clone https://github.com/uber/causalml.git
 $ cd causalml
